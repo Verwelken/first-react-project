@@ -1,0 +1,22 @@
+li {
+    width: 24%;
+    text-align: center;
+}
+
+li img {
+    max-width: 100%;
+}
+
+a {
+    background-color: blue;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 20px;
+}
